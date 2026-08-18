@@ -1,0 +1,9 @@
+Copyright (c) 2026 Brave
+
+This 3D model, STL files, and associated graphics are protected under 
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+Under this license, others are NOT permitted to:
+- Sell, commercialize, or monetize physical 3D prints or digital files of this design.
+- Re-upload, modify, remix, or alter these files on any platform.
+- Claim ownership or original authorship of this design.
